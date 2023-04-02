@@ -1,0 +1,5 @@
+{
+  "verified_contracts_scan_url": "https://arbiscan.io/contractsVerified",
+  "discord_webhook_url": "",
+  "refresh_time_seconds": 60
+}
